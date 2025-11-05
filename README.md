@@ -3,6 +3,8 @@
 I'm an **Analytics Engineer** who loves turning messy data into clean, reliable insights.  
 I work with SQL, Python, dbt, Redshift, Alteryx, Power BI, Tableau, and Excel.
 
+---
+
 ### 🧰 Tech Stack
 SQL • Python • dbt • Power BI • Tableau • Excel • Git
 
