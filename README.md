@@ -9,7 +9,7 @@ SQL • Python • dbt • Power BI • Tableau • Excel • Git
 ---
 
 ### 📂 Featured Projects
-- project 1
+- 1
 - 2
 - 3
   
@@ -21,4 +21,4 @@ Learning open-source data engineering and improving my SQL + dbt modeling skills
 ---
 
 ### 📫 Connect
-[LinkedIn](https://linkedin.com/in/yourprofile)
+[LinkedIn]([https://www.linkedin.com/in/briana-kent/])
