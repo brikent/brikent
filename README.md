@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, I'm Briana!
 
-<!--
-**brikent/brikent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Analytics Engineer** who loves turning messy data into clean, reliable insights.  
+I work with SQL, Python, dbt, Redshift, Alteryx, Power BI, Tableau, and Excel.
 
-Here are some ideas to get you started:
+### 🧰 Tech Stack
+SQL • Python • dbt • Power BI • Tableau • Excel • Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📂 Featured Projects
+- project 1
+- 2
+- 3
+  
+---
+
+### 🌱 Current Focus
+Learning open-source data engineering and improving my SQL + dbt modeling skills.
+
+---
+
+### 📫 Connect
+[LinkedIn](https://linkedin.com/in/yourprofile)
