@@ -21,4 +21,4 @@ Learning open-source data engineering and improving my SQL + dbt modeling skills
 ---
 
 ### 📫 Connect
-[LinkedIn]([https://www.linkedin.com/in/briana-kent/])
+[LinkedIn](https://www.linkedin.com/in/briana-kent/)
