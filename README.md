@@ -4,7 +4,7 @@
 
 📧 Email me: [bri.kent16@gmail.com](mailto:bri.kent16@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/briana-kent/)  
-📄 [View Resume](https://github.com/brikent/brikent/raw/main/assets/Briana_Kent_Resume.pdf)
+📄 [View Resume](https://github.com/brikent/brikent/raw/main/assets/Briana-Kent-Resume.pdf)
 
 ---
 
