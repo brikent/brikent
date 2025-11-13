@@ -1,8 +1,8 @@
-# Hello, I'm Briana!
+# Hello, I'm Briana Kent!
 
 ### Data ARTisan & Analytics Engineer  
 
-📧 [Email Me](mailto:bri.kent16@gmail.com)  
+📧 [Email me](mailto:bri.kent16@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/briana-kent/)  
 📄 [Resume](https://www.canva.com/design/DAGFKy9QWlU/wM45lAwS7jh5RG4SZU0CTw/view?utm_content=DAGFKy9QWlU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
@@ -29,21 +29,21 @@
 
 ## 🧩 Projects
 
-🎥 **[YouTube: EY Test Talk – Predictive Modeling](https://www.youtube.com/your-link)**  
-Explains predictive modeling concepts and practical QA applications in analytics engineering.
+🏦 **[Tableau Public: Bank Loan Analysis](https://public.tableau.com/app/profile/b.kent/viz/BankingDemo_17164259380130/LoanAnalysis)**  
+An interactive dashboard analyzing loan risk, default patterns, and applicant demographics.
 
-📊 **[Tableau Public: Mental Health Support in the Workplace](https://public.tableau.com/your-link)**  
+📊 **[Tableau Public: Mental Health Support in the Workplace](https://public.tableau.com/app/profile/b.kent/viz/MentalHealthSupportintheWorkplace/IsMentalHealthSupportedintheWorkplace)**  
 A data visualization exploring correlations between workplace culture, stress, and access to mental-health programs.
 
-🏦 **[Tableau Public: Bank Loan Analysis](https://public.tableau.com/your-link)**  
-An interactive dashboard analyzing loan risk, default patterns, and applicant demographics.
+🎥 **[YouTube: EY Test Talk – Predictive Modeling](https://www.youtube.com/watch?v=niPnp-ufcWA&list=PL3ZOd0y-i_r5jCKYgzCL23hdpqmFCpTQe&index=12&t=2s)**  
+Explains predictive modeling concepts and practical QA applications in analytics engineering.
 
 ---
 
 ## 🎓 Education
-**Correlation One — DS4A Empowerment Bootcamp** *(Honors Certification, 2021–2022)*  
-**University of Texas at San Antonio** — *BBA, Actuarial Science (2014–2018)*
+**[Correlation One](https://www.correlation-one.com/) — DS4A Empowerment Bootcamp** *(Honors Certification, 2021–2022)*  
+**[University of Texas at San Antonio](https://www.utsa.edu/)** — *BBA, Actuarial Science (2014–2018)*
 
 ---
 
-> *Merging art and analytics to craft stories that make data beautiful, useful, and human.*
+> *Merging art and analytics to craft stories that make data beautiful, useful, and simple.*
