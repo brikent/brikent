@@ -2,9 +2,9 @@
 
 ### Data ARTisan & Analytics Engineer  
 
-📧 [Email me](mailto:bri.kent16@gmail.com)  
+📧 Email me: [bri.kent16@gmail.com](mailto:bri.kent16@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/briana-kent/)  
-📄 [Resume](https://www.canva.com/design/DAGFKy9QWlU/wM45lAwS7jh5RG4SZU0CTw/view?utm_content=DAGFKy9QWlU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+📄 [View Resume](hhttps://github.com/brikent/brikent/raw/main/assets/Briana-Kent-Resume.pdf)
 
 ---
 
