@@ -42,6 +42,6 @@ Explains predictive modeling concepts and practical QA applications in test exec
 ---
 
 ## 🎓 Education
-**DS4A Empowerment Bootcamp, Honors Certification** — *Correlation One](https://www.correlation-one.com/) (2021–2022)
+**DS4A Empowerment Bootcamp, Honors Certification** — [Correlation One](https://www.correlation-one.com/), 2021–2022
 
-**Bachelor of Business Administration (BBA), Actuarial Science** — [University of Texas at San Antonio](https://www.utsa.edu/) (2014–2018)
+**Bachelor of Business Administration (BBA), Actuarial Science** — [University of Texas at San Antonio](https://www.utsa.edu/), 2014–2018
