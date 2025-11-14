@@ -7,9 +7,7 @@
 
 ## 📄 About Me
 
-[LinkedIn](https://www.linkedin.com/in/briana-kent/)  
-
-[Resume](https://github.com/brikent/brikent/raw/main/assets/Briana-Kent-Resume.pdf)
+[LinkedIn](https://www.linkedin.com/in/briana-kent/) | [Resume](https://github.com/brikent/brikent/raw/main/assets/Briana-Kent-Resume.pdf)
 
 ---
 
