@@ -1,29 +1,30 @@
-# Hello, I'm Briana Kent!
+# 👋 Hello, I'm Briana!
+### 🎨 Data ARTisan & Analytics Engineer
 
-### Data ARTisan & Analytics Engineer  
-
-📧 [Email me](mailto:bri.kent16@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/briana-kent/)  
-📄 [Resume](https://www.canva.com/design/DAGFKy9QWlU/wM45lAwS7jh5RG4SZU0CTw/view?utm_content=DAGFKy9QWlU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+***Merging art and analytics to make data accessible, meaningful, and beautiful.***
 
 ---
 
-## 🧠 Tech Stack and Expertise
-- Data Visualization Mastery (Tableau / Power BI)  
-- Analytics Consultancy & Data Storytelling  
-- Strategic Business Analysis  
-- Quality Assurance Leadership  
-- Multimedia Artistry & Creative Data Design  
+## 📄 About Me
+
+**[LinkedIn](https://www.linkedin.com/in/briana-kent/)** | **[Resume](https://github.com/brikent/brikent/raw/main/assets/Briana-Kent-Resume.pdf)**
+
+---
+
+## 🧠 Certifications & Skills
+**Certifications:** Alteryx Designer Core Certification, ISTQB® Certified Tester Foundation Level (CTFL)
+
+**Methodologies:** Software Development Lifecycle (SDLC), Exploratory Data Analysis (EDA)
+
+**Software & Tools:** Alteryx, SQL, Tableau, Power BI, Excel, Python
 
 ---
 
 ## 💼 Work Experience
 
-**Alight Solutions** — *Analytics Engineer & Value Analytics Consultant*  
-📆 2022–Present  
+**Analytics Engineer & Value Analytics Consultant** – **[Alight Solutions](https://www.alight.com/)**, 2022–Present
 
-**Ernst & Young (EY)** — *Test Automation Engineer and Technology Consultant*  
-📆 2018–2022  
+**Test Automation Engineer and Technology Consultant** – **[Ernst & Young (EY)](https://www.ey.com/en_us)**, 2018–2022
 
 ---
 
@@ -36,14 +37,11 @@ An interactive dashboard analyzing loan risk, default patterns, and applicant de
 A data visualization exploring correlations between workplace culture, stress, and access to mental-health programs.
 
 🎥 **[YouTube: EY Test Talk – Predictive Modeling](https://www.youtube.com/watch?v=niPnp-ufcWA&list=PL3ZOd0y-i_r5jCKYgzCL23hdpqmFCpTQe&index=12&t=2s)**  
-Explains predictive modeling concepts and practical QA applications in analytics engineering.
+Explains predictive modeling concepts and practical QA applications in test execution.
 
 ---
 
 ## 🎓 Education
-**[Correlation One](https://www.correlation-one.com/) — DS4A Empowerment Bootcamp** *(Honors Certification, 2021–2022)*  
-**[University of Texas at San Antonio](https://www.utsa.edu/)** — *BBA, Actuarial Science (2014–2018)*
+**DS4A Empowerment Bootcamp, Honors Certification – [Correlation One](https://www.correlation-one.com/)**, 2021–2022
 
----
-
-> *Merging art and analytics to craft stories that make data beautiful, useful, and simple.*
+**Bachelor of Business Administration (BBA), Actuarial Science – [University of Texas at San Antonio](https://www.utsa.edu/)**, 2014–2018
