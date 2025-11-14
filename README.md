@@ -24,9 +24,9 @@
 
 ## 💼 Work Experience
 
-**Alight Solutions** — Analytics Engineer & Value Analytics Consultant, 2022–Present  
+**Alight Solutions** — Analytics Engineer & Value Analytics Consultant (2022–Present)
 
-**Ernst & Young (EY)** — Test Automation Engineer and Technology Consultant, 2018–2022  
+**Ernst & Young (EY)** — Test Automation Engineer and Technology Consultant (2018–2022)
 
 ---
 
@@ -44,5 +44,6 @@ Explains predictive modeling concepts and practical QA applications in test exec
 ---
 
 ## 🎓 Education
-**[Correlation One](https://www.correlation-one.com/) — DS4A Empowerment Bootcamp** *(Honors Certification, 2021–2022)*  
-**[University of Texas at San Antonio](https://www.utsa.edu/)** — *BBA, Actuarial Science (2014–2018)*
+**[Correlation One](https://www.correlation-one.com/)** — DS4A Empowerment Bootcamp, Honors Certification (2021–2022)
+
+**[University of Texas at San Antonio](https://www.utsa.edu/)** — BBA, Actuarial Science (2014–2018)
