@@ -1,6 +1,6 @@
-# Hello, I'm Briana!
+# 👋 Hello, I'm Briana!
 
-### Data ARTisan & Analytics Engineer  
+### 🎨📈 Data ARTisan & Analytics Engineer  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/briana-kent/)  
 📄 [View Resume](https://github.com/brikent/brikent/raw/main/assets/Briana-Kent-Resume.pdf)
@@ -18,11 +18,9 @@
 
 ## 💼 Work Experience
 
-**Alight Solutions** — *Analytics Engineer & Value Analytics Consultant*  
-📆 2022–Present  
+**Alight Solutions** — *Analytics Engineer & Value Analytics Consultant* — 2022–Present  
 
-**Ernst & Young (EY)** — *Test Automation Engineer and Technology Consultant*  
-📆 2018–2022  
+**Ernst & Young (EY)** — *Test Automation Engineer and Technology Consultant* — 2018–2022  
 
 ---
 
@@ -35,7 +33,7 @@ An interactive dashboard analyzing loan risk, default patterns, and applicant de
 A data visualization exploring correlations between workplace culture, stress, and access to mental-health programs.
 
 🎥 **[YouTube: EY Test Talk – Predictive Modeling](https://www.youtube.com/watch?v=niPnp-ufcWA&list=PL3ZOd0y-i_r5jCKYgzCL23hdpqmFCpTQe&index=12&t=2s)**  
-Explains predictive modeling concepts and practical QA applications in analytics engineering.
+Explains predictive modeling concepts and practical QA applications in test execution.
 
 ---
 
@@ -45,4 +43,4 @@ Explains predictive modeling concepts and practical QA applications in analytics
 
 ---
 
-> *Merging art and analytics to craft stories that make data beautiful, useful, and simple.*
+> *Merging art and analytics to make data useful, simple, and beautiful.*
