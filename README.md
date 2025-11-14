@@ -7,7 +7,7 @@
 
 ## 📄 About Me
 
-[LinkedIn](https://www.linkedin.com/in/briana-kent/) | [Resume](https://github.com/brikent/brikent/raw/main/assets/Briana-Kent-Resume.pdf)
+**[LinkedIn](https://www.linkedin.com/in/briana-kent/)** | **[Resume](https://github.com/brikent/brikent/raw/main/assets/Briana-Kent-Resume.pdf)**
 
 ---
 
@@ -22,9 +22,9 @@
 
 ## 💼 Work Experience
 
-**Alight Solutions** — Analytics Engineer & Value Analytics Consultant (2022–Present)
+**[Alight Solutions](https://www.alight.com/)** — Analytics Engineer & Value Analytics Consultant (2022–Present)
 
-**Ernst & Young (EY)** — Test Automation Engineer and Technology Consultant (2018–2022)
+**[Ernst & Young (EY)](https://www.ey.com/en_us)** — Test Automation Engineer and Technology Consultant (2018–2022)
 
 ---
 
