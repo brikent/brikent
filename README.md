@@ -8,9 +8,9 @@
 ---
 
 ## 🧠 Certifications & Skills
--**Certifications:** Alteryx Designer Core Certification, ISTQB® Certified Tester Foundation Level (CTFL)
--**Methodologies:** Software Development Lifecycle (SDLC), Exploratory Data Analysis (EDA)
--**Software & Tools:** Alteryx, SQL, Tableau, Power BI, Excel, Python
+**Certifications:** Alteryx Designer Core Certification, ISTQB® Certified Tester Foundation Level (CTFL)
+**Methodologies:** Software Development Lifecycle (SDLC), Exploratory Data Analysis (EDA)
+**Software & Tools:** Alteryx, SQL, Tableau, Power BI, Excel, Python
 
 ---
 
