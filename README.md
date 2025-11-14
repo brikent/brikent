@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Briana!
 
-### 🎨📈 Data ARTisan & Analytics Engineer  
+### 🎨 Data ARTisan & Analytics Engineer 📈
 
 🔗 [LinkedIn](https://www.linkedin.com/in/briana-kent/)  
 📄 [View Resume](https://github.com/brikent/brikent/raw/main/assets/Briana-Kent-Resume.pdf)
