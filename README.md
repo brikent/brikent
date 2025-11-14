@@ -1,4 +1,4 @@
-# Hello, I'm Briana Kent!
+# Hello, I'm Briana!
 
 ### Data ARTisan & Analytics Engineer  
 
@@ -7,12 +7,10 @@
 
 ---
 
-## 🧠 Tech Stack and Expertise
-- Data Visualization Mastery (Tableau / Power BI)  
-- Analytics Consultancy & Data Storytelling  
-- Strategic Business Analysis  
-- Quality Assurance Leadership  
-- Multimedia Artistry & Creative Data Design  
+## 🧠 Certifications & Skills
+-**Certifications:** Alteryx Designer Core Certification, ISTQB® Certified Tester Foundation Level (CTFL)
+-**Methodologies:** Software Development Lifecycle (SDLC), Exploratory Data Analysis (EDA)
+-**Software & Tools:** Alteryx, SQL, Tableau, Power BI, Excel, Python
 
 ---
 
