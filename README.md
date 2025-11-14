@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Briana!
 ### 🎨 Data ARTisan & Analytics Engineer
 
-**Merging art and analytics to make data accessible, meaningful, and beautiful.**
+***Merging art and analytics to make data accessible, meaningful, and beautiful.***
 
 ---
 
