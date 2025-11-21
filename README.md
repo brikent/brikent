@@ -7,7 +7,7 @@
 
 ## 📄 About Me
 
-**[LinkedIn](https://www.linkedin.com/in/briana-kent/)** | **[Resume](https://github.com/brikent/brikent/raw/main/assets/Briana-Kent-Resume.pdf)**
+**[LinkedIn](https://www.linkedin.com/in/briana-kent/)** | **[StrataScratch](https://platform.stratascratch.com/user/brikent)** | **[Resume](https://github.com/brikent/brikent/raw/main/assets/Briana-Kent-Resume.pdf)**
 
 ---
 
@@ -21,14 +21,16 @@
 ---
 
 ## 💼 Work Experience
+**[Alight Solutions](https://www.alight.com/)**: Analytics Engineer & Value Analytics Consultant (2022–Present)
 
-**Analytics Engineer & Value Analytics Consultant** – **[Alight Solutions](https://www.alight.com/)**, 2022–Present
-
-**Test Automation Engineer and Technology Consultant** – **[Ernst & Young (EY)](https://www.ey.com/en_us)**, 2018–2022
+**[Ernst & Young (EY)](https://www.ey.com/en_us)**: Test Automation Engineer and Technology Consultant (2018–2022)
 
 ---
 
 ## 🧩 Projects
+
+🍃 **[Power BI: Plant Sales Analysis](https://github.com/brikent/pbi-plant-sales)**  
+End-to-end Power BI project showcasing data modeling, DAX measures, and interactive visualizations for plant sales performance.
 
 🏦 **[Tableau Public: Bank Loan Analysis](https://public.tableau.com/app/profile/b.kent/viz/BankingDemo_17164259380130/LoanAnalysis)**  
 An interactive dashboard analyzing loan risk, default patterns, and applicant demographics.
@@ -42,6 +44,6 @@ Explains predictive modeling concepts and practical QA applications in test exec
 ---
 
 ## 🎓 Education
-**DS4A Empowerment Bootcamp, Honors Certification – [Correlation One](https://www.correlation-one.com/)**, 2021–2022
+**[Correlation One](https://www.correlation-one.com/)**: DS4A Empowerment Bootcamp, Honors Certification (2021–2022)
 
-**Bachelor of Business Administration (BBA), Actuarial Science – [University of Texas at San Antonio](https://www.utsa.edu/)**, 2014–2018
+**[University of Texas at San Antonio](https://www.utsa.edu/)**: Bachelor of Business Administration, Actuarial Science (2014–2018)
