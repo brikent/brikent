@@ -5,11 +5,11 @@
 
 
 ## Skills & Tech Stack
-- **Skills**: data modeling, data translating, QA
+- **Skills**: data modeling, data visualization, data storytelling, business acumen, QA/UAT
 
 - **Languages:** SQL, Python
 
-- **BI Tools:** Excel, Tableau
+- **BI Tools:** Excel, Tableau, Power BI
 
 
 ## Work Experience
