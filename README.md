@@ -7,16 +7,16 @@
 
 ## 📄 About Me
 
-**[LinkedIn](https://www.linkedin.com/in/briana-kent/)** | **[StrataScratch](https://platform.stratascratch.com/user/brikent)** | **[Resume](https://github.com/brikent/brikent/raw/main/assets/Briana-Kent-Resume.pdf)**
+**[LinkedIn](https://www.linkedin.com/in/briana-kent/)**  **[Resume](https://github.com/brikent/brikent/raw/main/assets/Briana-Kent-Resume.pdf)**
 
 ---
 
-## 🧠 Certifications & Skills
-**Certifications:** Alteryx Designer Core Certification, ISTQB® Certified Tester Foundation Level (CTFL)
+## 🧠 Skills & Tech Stack
+**Skills**: data modeling, translating business requirements, QA
 
-**Methodologies:** Software Development Lifecycle (SDLC), Exploratory Data Analysis (EDA)
+**Languages:** SQL, Python
 
-**Software & Tools:** Alteryx, SQL, Tableau, Power BI, Excel, Python
+**BI Tools:** Excel, Tableau
 
 ---
 
@@ -29,17 +29,11 @@
 
 ## 🧩 Projects
 
-🍃 **[Power BI: Plant Sales Analysis](https://github.com/brikent/pbi-plant-sales)**  
-End-to-end Power BI project showcasing data modeling, DAX measures, and interactive visualizations for plant sales performance.
-
-🏦 **[Tableau Public: Bank Loan Analysis](https://public.tableau.com/app/profile/b.kent/viz/BankingDemo_17164259380130/LoanAnalysis)**  
-An interactive dashboard analyzing loan risk, default patterns, and applicant demographics.
-
 📊 **[Tableau Public: Mental Health Support in the Workplace](https://public.tableau.com/app/profile/b.kent/viz/MentalHealthSupportintheWorkplace/IsMentalHealthSupportedintheWorkplace)**  
-A data visualization exploring correlations between workplace culture, stress, and access to mental-health programs.
+A data visualization exploring correlations between workplace culture, stress, and access to mental-health programs. (2021)
 
 🎥 **[YouTube: EY Test Talk – Predictive Modeling](https://www.youtube.com/watch?v=niPnp-ufcWA&list=PL3ZOd0y-i_r5jCKYgzCL23hdpqmFCpTQe&index=12&t=2s)**  
-Explains predictive modeling concepts and practical QA applications in test execution.
+Explains predictive modeling concepts and practical QA applications in test execution. (2018-2021)
 
 ---
 
